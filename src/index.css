@@ -1,0 +1,3 @@
+@import "tailwindcss"; /*get tailwind in here so that we can use it in our app and the next line is meant for darkmode*/
+
+@custom-variant dark (&:where(.dark, .dark *));
