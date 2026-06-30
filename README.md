@@ -30,3 +30,8 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+this app is a reading tracker where you can go to track the progress of the books that you are currently reading outside of the website.
+this app/site has features such as dark mode add remove, move, forward, status for books like are you going to read, are you reading or are you finished, it even asks for a rating once you finish the book our of 5 stars
+I created a branch called feature/reading-tracker
+I merged an error that didn't damage the code and some comments
+I learned that react and Vite is way more complicated as expected but once you get the gist it becomes less scary.

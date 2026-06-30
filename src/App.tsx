@@ -232,7 +232,7 @@ return ()=>{ //this is a sort of clean up as it runs before the next search
                 onSortFieldChange={setSortField}
                 onSortDirectionChange={setSortDirection}/>
               </div>
-              <section className="rounded border border-gray-200 bg-white p-4 dark:border-gray-600 dark:big-gray-800">
+              <section className="rounded border border-gray-200 bg-white p-4 dark:border-gray-600 dark:bg-gray-800">
                 <h2 className="mb-3 text-xl font-semibold text-gray-900 dark:text-white"> {/*this is where the library box on the right is created formated and styled*/}
                   My Library
                 </h2>
